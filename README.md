@@ -88,6 +88,11 @@ You can view this project live using:
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/leslie-gudo-b08a4)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+👤 **Author2**
+- GitHub: [@githubhandle](https://github.com/MMhaidari)
+- Twitter: [@twitterhandle](https://twitter.com/gudo_leslie)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/leslie-gudo-b08a4)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 🔭 Future Features <a name="future-features"></a>
